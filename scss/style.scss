@@ -10,7 +10,7 @@ body {
     width: 100vw;
     overflow-x: hidden;
     * {
-        font-family: lato;
+        font-family: lato, sans-serif;
     }
 }
 ul, 
@@ -49,7 +49,7 @@ header {
     }
     .nav-logo-link {
         display: inline-block;
-        font-family: acme;
+        font-family: acme, sans-serif;
         font-weight: 500;
         font-size: 22px;
         text-shadow: 2px 2px 1px rgba(18, 15, 58, 1);
@@ -72,7 +72,7 @@ header {
         display: inline-block;
         margin: 0 10px;
         padding: 20px 0;
-        font-family: lato;
+        font-family: lato, sans-serif;
     }
     .nav-menu {
         display: none !important;
@@ -157,7 +157,7 @@ header {
         display: block;
         margin: 0 10px;
         padding: 8px 0;
-        font-family: lato;
+        font-family: lato, sans-serif;
     }
     .nav-link {
         display: inline-block;
@@ -213,7 +213,7 @@ header {
         font-weight: 300;
         margin-bottom: 30px;
         text-shadow: 1px 1px 1px #000000;
-        font-family: acme;
+        font-family: acme, sans-serif;
         letter-spacing: 1px;
 
         &::after {
@@ -237,7 +237,7 @@ header {
         margin-top: 10px;
         
         li {
-            font-family: acme;
+            font-family: acme, sans-serif;
             font-size: 18px;
             font-style: italic;
             font-weight: 500;
